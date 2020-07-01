@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $usuario = "u213531759_war";
-$senha = "2811199711";
+$senha = "";
 $banco = "u213531759_war";
 
 $conn = mysqli_connect($host, $usuario, $senha) or die(mysqli_error());
